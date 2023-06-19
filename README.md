@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeya Aravinth S</h1>
 <h3 align="center">I am an enthusiastic developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:jeyaaravinths@gmail.com</h3>
 <p align="left">
 </p>
 
